@@ -1,0 +1,1 @@
+document.getElementById('foo').innerHTML = '444';
